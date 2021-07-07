@@ -21,4 +21,4 @@
 * [android-system-programming](https://www.amazon.com/Android-System-Programming-customizing-debugging/dp/178712536X)
 
 ## Secure coding
-* [Android secure coding standard] (https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)
+* [Android secure coding standard](https://wiki.sei.cmu.edu/confluence/display/android/Android+Secure+Coding+Standard)
