@@ -1,0 +1,1 @@
+# Writeups and blogs or any kind of document
