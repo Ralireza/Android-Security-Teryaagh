@@ -17,15 +17,15 @@ Android security guides, roadmap, docs, courses, write-ups and teryaagh.
 </div>
 
 # Contents
-- [00-Roadmap](https://github.com/Ralireza/Android-Security-Teryaagh/tree/main/00-Roadmap)
-- [01-Labs](#Labs)
-- [02-Writeups](#Writeups)
-- [03-Books](#Books)
-- [04-Courses](#Courses)
-- [05-Tools](#Tools)
-- [06-Cheatsheet-Checklist](#Cheatsheet-Checklist)
-- [07-Talks](#Talks)
-- [08-Misc](#Misc)
+1. [Roadmap](https://github.com/Ralireza/Android-Security-Teryaagh/tree/main/00-Roadmap)
+2. [Labs](https://github.com/Ralireza/Android-Security-Teryaagh/tree/main/00-Labs)
+3. Writeups
+4. [Books](https://github.com/Ralireza/Android-Security-Teryaagh/tree/main/00-Books)
+5. Courses
+6. Tools
+7. Cheatsheet-Checklist
+8. Talks
+9. Misc
 
 
 
