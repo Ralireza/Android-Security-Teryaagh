@@ -23,11 +23,14 @@
 * [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
 * [GoatDroid](https://github.com/nvisium-jack-mannino/OWASP-GoatDroid-Project)
 
-# Enviroment or VM 
+# Environment 
+> Android security tools, framework, ... all in one virtual machine 
+
 * [Santoku](https://santoku-linux.com/) -  dedicated to mobile forensics, analysis, and security, and packaged in an easy to use, Open Source platform
 * [Mobisec](https://sourceforge.net/projects/mobisec/) - focused on providing a live environment for mobile security testing, forensics, reverse engineering and wireless analysis
 * [Appie](https://manifestsecurity.com/appie/) - a software package that has been pre-configured to function as an Android Pentesting Environment
 * [Androl4b](https://github.com/sh4hin/Androl4b) - based on ubuntu-mate includes the collection tools for reverse engineering and malware analysis
 * [Androidtamer](https://androidtamer.com/) - a Virtual / Live Platform for Android Security professionals
 * [AppUse](https://appsec-labs.com/AppUse/) - a Virtual Machine unique platform for mobile application security testing, Android and iOS
+* [Vezir-Project](https://github.com/oguzhantopgul/Vezir-Project) - Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 
