@@ -27,6 +27,7 @@
 > Android security tools, framework, ... all in one virtual machine 
 
 * [Santoku](https://santoku-linux.com/) -  dedicated to mobile forensics, analysis, and security, and packaged in an easy to use, Open Source platform
+* [Mobexler](https://mobexler.com/) - Mobile App Penetration Testing Lab 
 * [Mobisec](https://sourceforge.net/projects/mobisec/) - focused on providing a live environment for mobile security testing, forensics, reverse engineering and wireless analysis
 * [Appie](https://manifestsecurity.com/appie/) - a software package that has been pre-configured to function as an Android Pentesting Environment
 * [Androl4b](https://github.com/sh4hin/Androl4b) - based on ubuntu-mate includes the collection tools for reverse engineering and malware analysis
