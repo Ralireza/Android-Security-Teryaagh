@@ -1,6 +1,7 @@
 # Vulnerable APK to hack
 * [OVAA](https://github.com/oversecured/ovaa)
 * [DIVA](https://github.com/payatu/diva-android)
+* [ExploitMe](http://securitycompass.github.io/AndroidLabs/setup.html)
 * [OWASP Security Shepherd ](https://github.com/OWASP/SecurityShepherd)
 * [DVHMA](https://github.com/logicalhacking/DVHMA)
 * [CrackMe challenges](https://github.com/reoky/android-crackme-challenge)
