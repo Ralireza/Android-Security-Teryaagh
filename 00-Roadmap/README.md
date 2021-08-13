@@ -3,12 +3,12 @@
 ## Prerequisites
 
 ### Programing languages
-- Java
-- Kotlin
-- XML
+- Java : [[ 1 ]](https://www.homeandlearn.co.uk/java/java.html) - [[ 2 ]](https://www.codecademy.com/learn/learn-java) - [[ 3 ]](https://www.tutorialspoint.com/java/index.htm) - [[ 4 ]](https://www.youtube.com/watch?v=eIrMbAQSU34&t=6s)
+- Kotlin : [[ 1 ]](https://developer.android.com/kotlin) - [[ 2 ]](https://kotlinlang.org/docs/home.html)
+- XML : [[ 1 ]](https://www.w3schools.com/xml/) - [[ 2 ]](https://www.tutorialspoint.com/xml/index.htm)
 - C / C++
-- Smali
-- Assembly
+- Smali : [[ 1 ]](https://github.com/JesusFreke/smali) - [[ 2 ]](https://source.android.com/devices/tech/dalvik/dalvik-bytecode) - [[ 3 ]](https://programmer.help/blogs/smali-introduction-manual.html) - [[ 4 ]](https://forum.xda-developers.com/t/guide-smali-coding-guide-for-beginners.2193735/)
+- Assembly :  [[ 1 ]](https://www.tutorialspoint.com/assembly_programming/index.htm) - [[ 2 ]](https://cs.lmu.edu/~ray/notes/nasmtutorial/) - [[ 3 ]](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - [[ 4 ]](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 
 
 ### Networking
@@ -42,42 +42,38 @@
 - Filesystem / Partition
 - File
 - Database
-- Sqlite
-- Room
-- Realm
-- Sharedprefrence
+- Sqlite : [[ 1 ]](https://developer.android.com/training/data-storage/sqlite) - [[ 2 ]](https://www.sqlite.org/android)
+- Room : [[ 1 ]](https://developer.android.com/training/data-storage/room) - [[ 2 ]](https://medium.com/mindorks/using-room-database-android-jetpack-675a89a0e942)
+- Realm : [[ 1 ]](https://docs.mongodb.com/realm/sdk/android/) - [[ 2 ]](https://docs.mongodb.com/realm-legacy/docs/java/latest/)
+- Sharedprefrence : [[ 1 ]](https://developer.android.com/training/data-storage/shared-preferences) - [[ 2 ]](https://blog.mindorks.com/android-shared-preferences-in-kotlin)
 
 
 ## Permissions
-- Aplication level
+- Aplication level : [[ 1 ]](https://developer.android.com/guide/topics/permissions/overview)
 - protection levels
 - Custom Permission
 
 
 ## Application Components
-- Activity
-- Service
-- Broadcast Reciever
-- Content Provider
-- Manifest
-- Intent
-- Explicit
-- Implicit
-- Intent Filter
-- Deep Link
+- Activity : [[ 1 ]](https://developer.android.com/guide/components/activities/intro-activities)
+- Service : [[ 1 ]](https://developer.android.com/guide/components/services)
+- Broadcast Reciever : [[ 1 ]](https://developer.android.com/guide/components/broadcasts)
+- Content Provider : [[ 1 ]](https://developer.android.com/guide/topics/providers/content-providers)
+- Manifest : [[ 1 ]](https://developer.android.com/guide/topics/manifest/manifest-intro)
+- Intent : [[ 1 ]](https://developer.android.com/guide/components/intents-filters) - [[ 2 ]](https://blog.mindorks.com/what-are-intents-in-android)
+
 
 ## Core Api 
-- Cryptography
-- Navigation
-- Interacting with Other Apps
-- User Interface
-- Images and graphics
-- Audio & Video
-- background processing
-- App data and files
-- Touch and input
-- Sensors
-- Connectivity
+- Cryptography : [[ 1 ]](https://developer.android.com/guide/topics/security/cryptography?hl=en)
+- Interacting with Other Apps : [[ 1 ]](https://developer.android.com/training/basics/intents)
+- User Interface : [[ 1 ]](https://developer.android.com/guide/topics/ui)
+- Images and graphics : [[ 1 ]](https://developer.android.com/guide/topics/graphics)
+- Audio & Video : [[ 1 ]](https://developer.android.com/guide/topics/media)
+- background processing : [[ 1 ]](https://developer.android.com/guide/background)
+- App data and files : [[ 1 ]](https://developer.android.com/guide/topics/data)
+- Touch and input : [[ 1 ]](https://developer.android.com/guide/input)
+- Sensors : [[ 1 ]](https://developer.android.com/guide/topics/sensors)
+- Connectivity : [[ 1 ]](https://developer.android.com/guide/topics/connectivity)
 
 
 ## Server Interaction
@@ -95,7 +91,7 @@
 
 ## Static Analysis
 - APK Development Process
-- APK Structure
+- APK Structure : [[ 1 ]](https://developer.android.com/studio/projects)
 - Decompiling
 - JADX
 - APKtool
