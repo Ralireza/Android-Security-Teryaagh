@@ -12,7 +12,7 @@
 
 
 ### Networking
-- OCI Model
+- OCI Model : [[ 1 ]](https://www.javatpoint.com/osi-vs-tcp-ip) - [[ 2 ]](https://www.studytonight.com/computer-networks/complete-osi-model)
 - TCP / IP
 - DNS
 - HTTP
