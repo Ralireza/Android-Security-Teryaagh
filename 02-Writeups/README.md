@@ -10,6 +10,17 @@
 ## CTF
 * [andex-asis-2019](https://medium.com/@ralireza/asis-ctf-2019-andex-write-up-33b91311c3a)
 * [hacker101-ctf](https://infosecwriteups.com/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
+* [2021-THCon-Good old friend](https://cryptax.github.io/2021/06/14/thcon-goodold.html)
+* [2021-THCon-draw.per](https://cryptax.github.io/2021/06/14/thcon.html)
+* [2021-S4CTF-Water Color](https://github.com/1GN1tE/CTF_Writeups/tree/main/Writeups/S4CTF_2021/Water%20Color)
+* [2021-ritsec-memedrive](https://klefz.se/2021/04/12/ritsec-ctf-2021-write-up/#memedrive)
+* [2021-DarkConCTF-fire in the android](https://github.com/karma9874/CTF-Writeups/blob/master/DarkCON_CTF/Fire%20in%20the%20Androiddd/Fire_in_the_Androiddd.md)
+* [2021-DarkConCTF-ezpz](https://github.com/karma9874/CTF-Writeups/blob/master/DarkCON_CTF/ezpz/ezpz.md)
+* [2020-HackTM-MobaDEX](https://pwndiary.com/hacktm-finals-2020-mobadex)
+* [2020-PhantomCTF-hehe](https://github.com/FrigidSec/CTFWriteups/tree/master/PhantomCTF/Android/hehe)
+* [2020-SamsungCTF-vault101](https://saketupadhyay.codes/2020/08/18/sstf-vault-wtireup.html)
+* [2020-GoogleCTF-android](https://github.com/luker983/google-ctf-2020/tree/master/reversing/android)
+
 
 ## BugBounty
 ### RCE
