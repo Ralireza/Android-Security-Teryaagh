@@ -8,7 +8,6 @@
 * [Android application penetration testing guide](https://github.com/nightowl131/AAPG)
 
 ## CTF
-* [andex-asis-2019](https://medium.com/@ralireza/asis-ctf-2019-andex-write-up-33b91311c3a)
 * [hacker101-ctf](https://infosecwriteups.com/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
 * [2021-THCon-Good old friend](https://cryptax.github.io/2021/06/14/thcon-goodold.html)
 * [2021-THCon-draw.per](https://cryptax.github.io/2021/06/14/thcon.html)
@@ -20,6 +19,7 @@
 * [2020-PhantomCTF-hehe](https://github.com/FrigidSec/CTFWriteups/tree/master/PhantomCTF/Android/hehe)
 * [2020-SamsungCTF-vault101](https://saketupadhyay.codes/2020/08/18/sstf-vault-wtireup.html)
 * [2020-GoogleCTF-android](https://github.com/luker983/google-ctf-2020/tree/master/reversing/android)
+* [2019-asis-andex](https://medium.com/@ralireza/asis-ctf-2019-andex-write-up-33b91311c3a)
 
 
 ## BugBounty
