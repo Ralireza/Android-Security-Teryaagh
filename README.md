@@ -6,21 +6,24 @@
 
 <div align="center">
   
-# AST - Android Security Teryaagh
+# AST - Android Security Teryaagh :fire:
   
 </div>
 
 <div  align="center">
   
 Android security guides, roadmap, tools, docs, courses, write-ups and teryaagh. </br></br>
- [![telegram-channel](https://img.shields.io/badge/-Telegram-blue)](https://t.me/Andr0idS3c)   [![twitter](https://img.shields.io/badge/-Twitter-brightgreen)](https://twitter.com/Ralireza11)  
+
+ [![telegram-channel](https://img.shields.io/badge/-Telegram-blue)](https://t.me/Andr0idS3c)   <a href="https://twitter.com/intent/follow?screen_name=Ralireza11">
+        <img src="https://img.shields.io/twitter/follow/Ralireza11?style=social&logo=twitter"
+            alt="follow on Twitter"></a> [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Ralireza/Android-Security-Teryaagh)
 
 </div>
 
 
 
 
-# Contents
+# Contents :scroll:
 
 0. [Roadmap](https://github.com/Ralireza/Android-Security-Teryaagh/tree/main/00-Roadmap)
     - [Programing languages](https://github.com/Ralireza/Android-Security-Teryaagh/tree/main/00-Roadmap#programing-languages)
@@ -63,5 +66,5 @@ Android security guides, roadmap, tools, docs, courses, write-ups and teryaagh. 
 
 
 
-# Roadmap
+# Roadmap :rocket:
 ![Roadmap](./00-Roadmap/Android-Security-Roadmap.png)
