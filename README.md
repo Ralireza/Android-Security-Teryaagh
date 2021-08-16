@@ -10,11 +10,15 @@
   
 </div>
 
-<div align="center">
+<div  align="center">
   
-Android security guides, roadmap, tools, docs, courses, write-ups and teryaagh. 
-  
+Android security guides, roadmap, tools, docs, courses, write-ups and teryaagh. </br></br>
+ [![telegram-channel](https://img.shields.io/badge/-Telegram-blue)](https://t.me/Andr0idS3c)   [![twitter](https://img.shields.io/badge/-Twitter-brightgreen)](https://twitter.com/Ralireza11)  
+
 </div>
+
+
+
 
 # Contents
 
