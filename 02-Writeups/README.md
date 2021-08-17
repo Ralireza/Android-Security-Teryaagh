@@ -47,6 +47,7 @@
 * [Exploiting Activity in medium android app](https://infosecwriteups.com/exploiting-activity-in-medium-android-app-e2e6f3553eef)
 * [Google Photos : Theft of Database & Arbitrary Files Android Vulnerability](https://servicenger.com/blog/mobile/google-photos-theft-of-database-arbitrary-files-android-vulnerability/)
 * [Ability To Backdoor Facebook For Android](https://ash-king.co.uk/blog/backdoor-android-facebook)
+* [Security flaws in samsung device](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
 ### SQL Injection
 * [SQL Injection found in NextCloud Android App Content Provider](https://hackerone.com/reports/291764)
 * [Time-Based SQL Injection to Dumping the Database](https://thevillagehacker.medium.com/time-based-sql-injection-to-dumping-the-database-da0e5bcaa9df)
@@ -55,6 +56,7 @@
 * [Theft of arbitrary files leading to token leakage](https://hackerone.com/reports/288955)
 * [Possible to steal arbitrary files from mobile device](https://hackerone.com/reports/258460)
 * [Vulnerable to local file steal, Javascript injection, Open redirect](https://hackerone.com/reports/499348)
+* [securing Samsung devices](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
 ### Privilege Escalation
 * [Intent spoofinig](https://hackerone.com/reports/97295)
 * [Access of some not exported content providers](https://hackerone.com/reports/272044)
