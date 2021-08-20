@@ -7,6 +7,9 @@
 * [Android Penetration Testing](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
 * [Android application penetration testing guide](https://github.com/nightowl131/AAPG)
 
+## Blog
+* [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
+
 ## CTF
 * [hacker101-CTF](https://infosecwriteups.com/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
 * [2021-THCon-Good old friend](https://cryptax.github.io/2021/06/14/thcon-goodold.html)
