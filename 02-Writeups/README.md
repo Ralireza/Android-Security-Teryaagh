@@ -12,6 +12,7 @@
 
 ## CTF
 * [hacker101-CTF](https://infosecwriteups.com/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
+* [2021-GoogleCTF-TRIDROID](https://fineas.github.io/FeDEX/post/tridroid.html)
 * [2021-THCon-Good old friend](https://cryptax.github.io/2021/06/14/thcon-goodold.html)
 * [2021-THCon-draw.per](https://cryptax.github.io/2021/06/14/thcon.html)
 * [2021-S4CTF-Water Color](https://github.com/1GN1tE/CTF_Writeups/tree/main/Writeups/S4CTF_2021/Water%20Color)
