@@ -11,6 +11,8 @@
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 * Two weeks of securing Samsung devices : [[ 1 ]](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/) - [[ 2 ]](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
 
+## Malware analysis
+* [a Cabassous/FluBot Case study](https://blog.nviso.eu/2021/04/19/how-to-analyze-mobile-malware-a-cabassous-flubot-case-study/)
 ## CTF
 * [hacker101-CTF](https://infosecwriteups.com/hacker101-ctf-android-challenge-writeups-f830a382c3ce)
 * [2021-GoogleCTF-TRIDROID](https://fineas.github.io/FeDEX/post/tridroid.html)
