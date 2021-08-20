@@ -6,5 +6,6 @@
 # Checklist
 * [Android pentest checklist](https://mobexler.com/checklist.htm#android)
 * [MASVS checklist for pentesting android apps](https://mobile-security.gitbook.io/masvs/)
+* [Proxying Android app traffic – Common issues](https://blog.nviso.eu/2020/11/19/proxying-android-app-traffic-common-issues-checklist/)
 
 
