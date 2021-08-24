@@ -12,7 +12,7 @@
 
 
 ### Networking
-- OCI Model : [[ 1 ]](https://www.javatpoint.com/osi-vs-tcp-ip) - [[ 2 ]](https://www.studytonight.com/computer-networks/complete-osi-model)
+- OSI Model : [[ 1 ]](https://www.javatpoint.com/osi-vs-tcp-ip) - [[ 2 ]](https://www.studytonight.com/computer-networks/complete-osi-model)
 - TCP / IP
 - DNS
 - HTTP
@@ -31,11 +31,11 @@
 - Linux Kernel
 - HAL
 - Native Library
-- Android Runtim
+- Android Runtime
 - Java API
 - System App
 - IPC
-- binder
+- Binder
 - Dalvik VM
 - SandBoxing
 - User & group 
@@ -49,8 +49,8 @@
 
 
 ## Permissions
-- Aplication level : [[ 1 ]](https://developer.android.com/guide/topics/permissions/overview)
-- protection levels
+- Application level : [[ 1 ]](https://developer.android.com/guide/topics/permissions/overview)
+- Protection levels
 - Custom Permission
 
 
