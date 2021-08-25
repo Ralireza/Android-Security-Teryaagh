@@ -17,7 +17,7 @@ Android security guides, roadmap, tools, docs, courses, write-ups and teryaagh. 
  [![telegram-channel](https://img.shields.io/badge/-Telegram-blue)](https://t.me/Andr0idS3c)   <a href="https://twitter.com/intent/follow?screen_name=Ralireza11">
         <img src="https://img.shields.io/twitter/follow/Ralireza11?style=social&logo=twitter"
             alt="follow on Twitter"></a> [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Ralireza/Android-Security-Teryaagh)
-[![CONTRIBUTE](https://img.shields.io/badge/-feel%20free%20to%20contribute-orange)](https://github.com/Ralireza/Android-Security-Teryaagh/network/members)
+[![:heart:](https://img.shields.io/badge/-feel%20free%20to%20contribute-orange)](https://github.com/Ralireza/Android-Security-Teryaagh/network/members)
 </div>
 
 
