@@ -83,6 +83,7 @@ the development work of your Android app
 * [Cloudspy](https://github.com/frida/cloudspy) - This is a proof-of-concept web app built on top of Frida.
 * [Aurora](https://github.com/frida/aurora) - This is a proof-of-concept web app built on top of Frida.
 * [Android Malware Sandbox](Android Malware Sandbox) - This project aim to provide a simple configurable and modulable sandbox for quickly sandbox known or unknown families of Android Malware.
+* [AAA](https://github.com/NotSoSecure/android_application_analyzer) - analyze the content of the android application in local storage.
 
 ## Online 
 * [Oversecured](https://oversecured.com/) -  automatically scans for all known mobile vulnerabilities, including arbitrary code execution, theft of arbitrary files and cross-site scripting
