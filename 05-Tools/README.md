@@ -73,6 +73,7 @@ the development work of your Android app
 * [Fridump](https://github.com/Nightbringer21/fridump) - using the Frida framework to dump accessible memory addresses from any platform supported
 * [Brida](https://github.com/federicodotta/Brida) - Brida is a Burp Suite Extension that, working as a bridge between Burp Suite and Frida
 * [r2frida](https://github.com/nowsecure/r2frida) - Radare2 and Frida better together.
+* [ghidra2frida](https://github.com/federicodotta/ghidra2frida) - Ghidra Extension that, working as a bridge between Ghidra and Frida [[ 1 ]](https://security.humanativaspa.it/ghidra2frida-the-new-bridge-between-ghidra-and-frida/)
 * [XposedFridaBridge](https://github.com/monkeylord/XposedFridaBridge) - A frida script implement XposedBridge & load xposed modules, without installing xposed framwork.
 * [RMS](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - Runtime Mobile Security, powered by FRIDA, is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime.
 * [Noia](https://github.com/0x742/noia) - Noia is a web-based tool whose main aim is to ease the process of browsing mobile applications sandbox and directly previewing SQLite databases, images, and more. Powered by frida.re.
