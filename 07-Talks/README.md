@@ -1,5 +1,7 @@
 # Talks and Interviews
 * [Android Security Research channel](https://www.youtube.com/channel/UCf2KY6RhY1hvmzwjKgQ9dhw)
+* [2021-blackhat-A Deep Dive into Privacy Dashboard of Top Android Vendors](https://www.blackhat.com/eu-21/briefings/schedule/index.html#re-route-your-intent-for-privilege-escalation-a-universal-way-to-exploit-android-pendingintents-in-high-profile-and-system-apps-24340)
+* [2021-blackhat-Re-route Your Intent for Privilege Escalation](https://www.blackhat.com/eu-21/briefings/schedule/index.html#a-deep-dive-into-privacy-dashboard-of-top-android-vendors-24791)
 * [2020-blackhat-Breaking Samsung's Root of Trust: Exploiting Samsung S10 Secure Boot](https://www.youtube.com/watch?v=wkWUU8820ro&list=PLH15HpR5qRsXE_4kOSy_SXwFkFQre4AV_&index=30)
 * [2020-blackhat-Chain to Remotely Root Modern Android Devices - Pwn Android Phones from 2015-2020](https://www.youtube.com/watch?v=K91SrkKt4IQ&list=PLH15HpR5qRsXE_4kOSy_SXwFkFQre4AV_&index=45)
 * [2020-blackhat-Stealthily Access Your Android Phones: Bypass the Bluetooth Authentication](https://www.youtube.com/watch?v=6J3weqoiads&list=PLH15HpR5qRsXE_4kOSy_SXwFkFQre4AV_&index=60)
