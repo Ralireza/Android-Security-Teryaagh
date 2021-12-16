@@ -14,6 +14,7 @@
 * Hacking Xiaomi's Adnroid Apps: [[ 1 ]](https://blog.takemyhand.xyz/2021/07/hacking-on-xiaomis-android-apps.html?spref=tw)
 * [Client Side Encryption Bypass Leads to Account Takeover](https://sanjay-gondaliya.medium.com/android-applications-client-side-encryption-bypass-leads-to-account-takeover-e8604ded9c52)
 * [PGSharp: Analysis of a Cheating App for PokemonGO](https://www.romainthomas.fr/post/21-11-pgsharp-analysis/)
+* [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 
 
 ## Malware analysis
