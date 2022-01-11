@@ -21,14 +21,14 @@
 
 
 ### Cryptography
-- Encryption
+- Encryption : [[ 1 ]](https://cryptohack.org/)
 - Hashing
 - MAC
 - RSA 
 - AES
 
 ## Android Design & Architecture
-- Linux Kernel
+- Linux Kernel : [[ 1 ]](https://developer.android.com/guide/platform?hl=en)
 - HAL
 - Native Library
 - Android Runtime
