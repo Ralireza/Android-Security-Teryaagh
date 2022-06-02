@@ -6,7 +6,7 @@
 * [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
 * [Android Penetration Testing](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
 * [Android application penetration testing guide](https://github.com/nightowl131/AAPG)
-* Flutter SSL pin bypass : [[ 1 ]](https://blog.nviso.eu/2020/05/20/intercepting-flutter-traffic-on-android-x64/) - [[ 2 ]](https://blog.nviso.eu/2019/08/13/intercepting-traffic-from-android-flutter-applications/)
+* Flutter reverse : [[ 1 ]](https://blog.nviso.eu/2020/05/20/intercepting-flutter-traffic-on-android-x64/) - [[ 2 ]](https://blog.nviso.eu/2019/08/13/intercepting-traffic-from-android-flutter-applications/) - [[ 3 ]](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
 
 ## Blog
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
