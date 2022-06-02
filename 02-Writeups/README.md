@@ -21,6 +21,7 @@
 * [a Cabassous/FluBot Case study](https://blog.nviso.eu/2021/04/19/how-to-analyze-mobile-malware-a-cabassous-flubot-case-study/)
 * [Reversing ActionSpy Android Malware](https://0x00sec.org/t/reversing-actionspy-android-malware/26537)
 * [Trojans and their little tricks](https://securelist.com/mobile-subscription-trojans-and-their-tricks/106412/)
+* [App Serves Teabot Via GitHub](https://labs.k7computing.com/index.php/play-store-app-serves-teabot-via-github/)
 
 ## CVE
 * [Samsung Flow - Any App Can Read The External Storage](https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/)
