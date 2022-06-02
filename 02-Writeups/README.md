@@ -18,6 +18,7 @@
 * [Use cryptography in mobile apps the right way](https://blog.oversecured.com/Use-cryptography-in-mobile-apps-the-right-way/)
 * [How to Detect Frida](https://github.com/apkunpacker/Anti-Frida)
 * [apps with millions of downloads exposed to high-severity vulnerabilities](https://www.microsoft.com/security/blog/2022/05/27/android-apps-with-millions-of-downloads-exposed-to-high-severity-vulnerabilities/)
+* [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
 
 
 ## Malware analysis
