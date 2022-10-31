@@ -34,6 +34,8 @@
 * [Trojans and their little tricks](https://securelist.com/mobile-subscription-trojans-and-their-tricks/106412/)
 * [App Serves Teabot Via GitHub](https://labs.k7computing.com/index.php/play-store-app-serves-teabot-via-github/)
 * [Google Service Framework Malware](https://blog.cyble.com/2022/05/26/new-malware-campaign-delivers-android-rat/)
+* [Hydra Malware](https://muha2xmad.github.io/malware-analysis/hydra/)
+* [Ginp Malware](https://muha2xmad.github.io/malware-analysis/ginp/)
 
 ## CVE
 * [Samsung Flow - Any App Can Read The External Storage](https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/)
