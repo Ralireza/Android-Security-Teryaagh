@@ -9,6 +9,7 @@
 * Flutter reverse : [[ 1 ]](https://blog.nviso.eu/2020/05/20/intercepting-flutter-traffic-on-android-x64/) - [[ 2 ]](https://blog.nviso.eu/2019/08/13/intercepting-traffic-from-android-flutter-applications/) - [[ 3 ]](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
 * [Using Frida on Android without root](https://koz.io/using-frida-on-android-without-root/)
 * [Frida Handbook](https://learnfrida.info/)
+* [MITRE Mobile Techniques](https://attack.mitre.org/versions/v7/techniques/mobile/)
 
 
 ## Blog
