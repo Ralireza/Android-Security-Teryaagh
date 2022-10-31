@@ -26,6 +26,7 @@
 
 ## Malware analysis
 * [MoqHao Malware Analysis](https://www.xanhacks.xyz/p/moqhao-malware-analysis/)
+* [SharkBot Malware Analysis](https://muha2xmad.github.io/malware-analysis/sharkbot/)
 * [SOVA Malware Analysis](https://muha2xmad.github.io/malware-analysis/sova/)
 * [a Cabassous/FluBot Case study](https://blog.nviso.eu/2021/04/19/how-to-analyze-mobile-malware-a-cabassous-flubot-case-study/)
 * [Reversing ActionSpy Android Malware](https://0x00sec.org/t/reversing-actionspy-android-malware/26537)
