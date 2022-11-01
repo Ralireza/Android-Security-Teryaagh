@@ -10,7 +10,7 @@
 * [Using Frida on Android without root](https://koz.io/using-frida-on-android-without-root/)
 * [Frida Handbook](https://learnfrida.info/)
 * [MITRE Mobile Techniques](https://attack.mitre.org/versions/v7/techniques/mobile/)
-
+* [Android Security Risks](https://developer.android.com/topic/security/risks)
 
 ## Blog
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
