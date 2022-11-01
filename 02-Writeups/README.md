@@ -36,6 +36,7 @@
 * [Google Service Framework Malware](https://blog.cyble.com/2022/05/26/new-malware-campaign-delivers-android-rat/)
 * [Hydra Malware](https://muha2xmad.github.io/malware-analysis/hydra/)
 * [Ginp Malware](https://muha2xmad.github.io/malware-analysis/ginp/)
+* [PEGASUS Malware](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
 
 ## CVE
 * [Samsung Flow - Any App Can Read The External Storage](https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/)
