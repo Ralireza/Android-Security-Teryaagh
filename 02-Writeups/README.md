@@ -11,6 +11,7 @@
 * [Frida Handbook](https://learnfrida.info/)
 * [MITRE Mobile Techniques](https://attack.mitre.org/versions/v7/techniques/mobile/)
 * [Android Security Risks](https://developer.android.com/topic/security/risks)
+* [Debug Native library in android](https://ctf-wiki.mahaloz.re/android/basic_reverse/dynamic/ida_native_debug/)
 
 ## Blog
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
