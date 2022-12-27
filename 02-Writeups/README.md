@@ -26,6 +26,7 @@
 * [How to Detect Frida](https://github.com/apkunpacker/Anti-Frida)
 * [apps with millions of downloads exposed to high-severity vulnerabilities](https://www.microsoft.com/security/blog/2022/05/27/android-apps-with-millions-of-downloads-exposed-to-high-severity-vulnerabilities/)
 * [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
+* [Unpacking a JsonPacker-packed sample](https://cryptax.medium.com/unpacking-a-jsonpacker-packed-sample-4038e12119f5)
 
 
 ## Malware analysis
