@@ -16,6 +16,8 @@
 * [Apktool](https://ibotpeaches.github.io/Apktool/) - A tool for reverse engineering Android apk files
 * [Dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
 * [Jadx](https://github.com/skylot/jadx) - Command line and GUI tools for producing Java source code from Android Dex and Apk files
+* [DroidLysis](https://github.com/cryptax/droidlysis) - Property extractor for Android apps
+* [APKiD](https://github.com/rednaga/APKiD) - Android Application Identifier for Packers, Protectors, Obfuscators and Oddities 
 * [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) - a lightweight user-friendly Java/Android Bytecode Viewer, Decompiler & More
 * [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio) - It features a friendly IDE-like layout including code editor with syntax highlighting support for .smali code files.
 * [APKLab](https://github.com/APKLab/APKLab) - The ultimate Android RE experience right inside your VS Code.
