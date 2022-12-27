@@ -38,6 +38,7 @@
 * [App Serves Teabot Via GitHub](https://labs.k7computing.com/index.php/play-store-app-serves-teabot-via-github/)
 * [Google Service Framework Malware](https://blog.cyble.com/2022/05/26/new-malware-campaign-delivers-android-rat/)
 * [Hydra Malware](https://muha2xmad.github.io/malware-analysis/hydra/)
+* Hydra Malware : [[ 1 ]](https://muha2xmad.github.io/malware-analysis/hydra/) - [[ 2 ]](https://pentest.blog/android-malware-analysis-dissecting-hydra-dropper/) - [[ 3 ]](https://www.avira.com/en/blog/avira-labs-research-reveals-hydra-banking-trojan-2-0)
 * [Ginp Malware](https://muha2xmad.github.io/malware-analysis/ginp/)
 * [PEGASUS Malware](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
 
