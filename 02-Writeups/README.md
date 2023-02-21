@@ -45,6 +45,7 @@
 * Hydra Malware : [[ 1 ]](https://muha2xmad.github.io/malware-analysis/hydra/) - [[ 2 ]](https://pentest.blog/android-malware-analysis-dissecting-hydra-dropper/) - [[ 3 ]](https://www.avira.com/en/blog/avira-labs-research-reveals-hydra-banking-trojan-2-0)
 * [Ginp Malware](https://muha2xmad.github.io/malware-analysis/ginp/)
 * [PEGASUS Malware](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
+* [Godfather Malware](https://muha2xmad.github.io/malware-analysis/godfather/)
 
 ## CVE
 * [Samsung Flow - Any App Can Read The External Storage](https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/)
