@@ -32,6 +32,7 @@
 
 
 ## Malware analysis
+* [Anubis analysis video](https://www.youtube.com/watch?v=Vs9Z3NDnVT8&ab_channel=LaurieWired)
 * [MoqHao Malware Analysis](https://www.xanhacks.xyz/p/moqhao-malware-analysis/)
 * [SharkBot Malware Analysis](https://muha2xmad.github.io/malware-analysis/sharkbot/)
 * [SOVA Malware Analysis](https://muha2xmad.github.io/malware-analysis/sova/)
