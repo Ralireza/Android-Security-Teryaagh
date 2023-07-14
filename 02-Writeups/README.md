@@ -50,6 +50,7 @@
 * [PEGASUS Malware](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
 * [Godfather Malware](https://muha2xmad.github.io/malware-analysis/godfather/)
 * [EASTERN ASIAN ANDROID ASSAULT – FLUHORSE](https://research.checkpoint.com/2023/eastern-asian-android-assault-fluhorse/)
+* [Reverses Flutter-based Android Malware “Fluhorse”](https://www.fortinet.com/blog/threat-research/fortinet-reverses-flutter-based-android-malware-fluhorse)
 
 ## CVE
 * [Samsung Flow - Any App Can Read The External Storage](https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/)
