@@ -33,6 +33,7 @@
 * Life hack for understanding Flutter Application : [[ 1 ]](https://infosecwriteups.com/flutter-hackers-uncovering-the-devs-myopia-part-1-6c316be56b13) - [[ 2 ]](https://infosecwriteups.com/flutter-hackers-uncovering-the-devs-myopia-part-2-598a44942b5e)
 * [Testing a new encrypted messaging app](https://crnkovic.dev/testing-converso/)
 * [The Kangaroo packer with native decryption](https://cryptax.medium.com/inside-kangapack-the-kangaroo-packer-with-native-decryption-3e7e054679c4)
+* [Android SELinux Internals](https://8ksec.io/android-selinux-internals-part-i-8ksec-blogs/)
 
 
 ## Malware analysis
