@@ -14,6 +14,7 @@
 * [Debug Native library in android](https://ctf-wiki.mahaloz.re/android/basic_reverse/dynamic/ida_native_debug/)
 * [ARM assembly basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [3 ways for Dynamic Code Loading in Android](https://erev0s.com/blog/3-ways-for-dynamic-code-loading-in-android/)
+* [Analyze the native ELF binary in Ghidra](https://www.youtube.com/watch?v=sK_jsQ5bJUk&ab_channel=LaurieWired)
 
 
 ## Blog
