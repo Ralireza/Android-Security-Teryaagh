@@ -13,6 +13,7 @@
 * [Android Security Risks](https://developer.android.com/topic/security/risks)
 * [Debug Native library in android](https://ctf-wiki.mahaloz.re/android/basic_reverse/dynamic/ida_native_debug/)
 * [ARM assembly basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
+* [3 ways for Dynamic Code Loading in Android](https://erev0s.com/blog/3-ways-for-dynamic-code-loading-in-android/)
 
 
 ## Blog
@@ -28,7 +29,7 @@
 * [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
 * [Unpacking a JsonPacker-packed sample](https://cryptax.medium.com/unpacking-a-jsonpacker-packed-sample-4038e12119f5)
 * [Exploiting Android WebView Vulnerabilities](https://medium.com/mobis3c/exploiting-android-webview-vulnerabilities-e2bcff780892#6537)
-
+* Life hack for understanding Flutter Application : [[ 1 ]](https://infosecwriteups.com/flutter-hackers-uncovering-the-devs-myopia-part-1-6c316be56b13) - [[ 2 ]](https://infosecwriteups.com/flutter-hackers-uncovering-the-devs-myopia-part-2-598a44942b5e)
 
 
 ## Malware analysis
@@ -46,6 +47,7 @@
 * [Ginp Malware](https://muha2xmad.github.io/malware-analysis/ginp/)
 * [PEGASUS Malware](https://cybergeeks.tech/a-technical-analysis-of-pegasus-for-android-part-1/)
 * [Godfather Malware](https://muha2xmad.github.io/malware-analysis/godfather/)
+* [EASTERN ASIAN ANDROID ASSAULT – FLUHORSE](https://research.checkpoint.com/2023/eastern-asian-android-assault-fluhorse/)
 
 ## CVE
 * [Samsung Flow - Any App Can Read The External Storage](https://labs.f-secure.com/advisories/samsung-flow-any-app-can-read-the-external-storage/)
