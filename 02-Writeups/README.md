@@ -2,6 +2,7 @@
 ## tutorial
 * [11x256 (tutorials about using Frida to instrument android applications)](https://11x256.github.io/)
 * [App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/)
+* [Android Applications Pentesting](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting)
 * [All Anroid Security Refrence](https://github.com/doridori/Android-Security-Reference)
 * [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
 * [Android Penetration Testing](https://medium.com/mobile-penetration-testing/android-penetration-testing-courses-4effa36ac5ed)
