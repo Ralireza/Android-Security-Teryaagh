@@ -23,7 +23,7 @@ Android security guides, roadmap, tools, docs, courses, write-ups and teryaagh. 
 </div>
 
 # Buy me a coffee :coffee:
-USDT[TRON] : TUHFMaHfFqqBa3VVymkBDCFihCo5bNcpMB
+USDT[TRC20] : TGr1e69ZbSvQm98C4Gq5T1mJ323e3U1pwr
 # Contents :scroll:
 
 0. [Roadmap](https://github.com/Ralireza/Android-Security-Teryaagh/tree/main/00-Roadmap)
