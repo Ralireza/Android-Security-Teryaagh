@@ -8,5 +8,6 @@
 * [MASVS checklist for pentesting android apps](https://mobile-security.gitbook.io/masvs/)
 * [Proxying Android app traffic – Common issues](https://blog.nviso.eu/2020/11/19/proxying-android-app-traffic-common-issues-checklist/)
 * [Android App Pentest Xmind](https://www.xmind.net/m/GkgaYH/)
+* [Android pentest reports](https://github.com/juliocesarfort/public-pentesting-reports/tree/master)
 
 
