@@ -25,12 +25,16 @@
 * [Android Deep Links exploitation](https://z4ki.medium.com/android-deep-links-exploitation-4abade4d45b4)
 * [https://medium.com/@appsecwarrior/bypass-ssl-pinning-for-flutter-a2f9ae85762e](https://medium.com/@prasad508/bypass-ssl-pinning-for-flutter-a2f9ae85762e)
 * [How to debug Android/iOS native library using GDB](https://medium.com/@shubhamsonani/how-to-debug-android-ios-native-library-using-gdb-debugger-d02c0e0341eb)
+* [Advanced Frida Usage-Memory Scanning](https://8ksec.io/advanced-frida-usage-part-9-memory-scanning-in-android/)
+* [Instruction Tracing using Frida Stalker](https://8ksec.io/advanced-frida-usage-part-10-instruction-tracing-using-frida-stalker/)
+* Fundamentals for Bytecode Exploitation: [[1]](https://lolcads.github.io/posts/2024/09/bytecode_exploitation_0/) - [[2]](https://lolcads.github.io/posts/2024/09/bytecode_exploitation_1/) - [[3]](https://lolcads.github.io/posts/2024/09/bytecode_exploitation_2/) - [[4]](https://lolcads.github.io/posts/2024/09/bytecode_exploitation_3/)
 
 
 ## Blog
 * [xss on android](https://securityboulevard.com/2023/10/execution-of-arbitrary-javascript-in-android-application/)
 * [Owning a company from its mobile app](https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627)
 * [Get persistent reverse shell from Android app](https://www.mobile-hacker.com/2023/09/27/get-persistent-reverse-shell-from-android-app-without-visible-permissions-to-make-device-unusable/)
+* [Hacking Android Games](https://8ksec.io/hacking-android-games/)
 * [Automated local DNS cache poisoning using Android while charging via computer](https://www.mobile-hacker.com/2024/02/20/automated-dns-poisoning-using-android-while-charging-via-computer/)
 * [Bad Zip and new Packer for Android](https://cryptax.medium.com/bad-zip-and-new-packer-for-android-bianlian-5bdad4b90aeb)
 * [Unsupported Compression Methods Enable Android Malware to Bypass Detection](https://zimperium.com/blog/over-3000-android-malware-samples-using-multiple-techniques-to-bypass-detection)
@@ -55,6 +59,8 @@
 ## Malware analysis
 * [Take a note of SpyNote malware](https://www.f-secure.com/en/articles/take-a-note-of-spynote-malware)
 * [Malicious “RedAlert - Rocket Alerts”](https://blog.cloudflare.com/malicious-redalert-rocket-alerts-application-targets-israeli-phone-calls-sms-and-user-information/)
+* [Blackrock](https://8ksec.io/mobile-malware-analysis-part-7-blackrock/)
+* [SoumniBot](https://securelist.com/soumnibot-android-banker-obfuscates-app-manifest/112334/)
 * [Analysis of Android HookBot malware](https://cebrf.knf.gov.pl/komunikaty/artykuly-csirt-knf/362-ostrzezenia/858-hookbot-a-new-mobile-malware)
 * [Reverse engineering of Android/Phoenix](https://cryptax.medium.com/reverse-engineering-of-android-phoenix-b59693c03bd3)
 * [Fake Skype App](https://slowmist.medium.com/fake-skype-app-phishing-analysis-35c1dc8bc515)
