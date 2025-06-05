@@ -19,9 +19,12 @@
 * [Content Providers and the potential weak spots they can have](https://blog.oversecured.com/Content-Providers-and-the-potential-weak-spots-they-can-have/)
 * [Wi-Fi hacking using wifite](https://www.mobile-hacker.com/2023/08/29/nethunter-hacker-viii-wi-fi-hacking-using-wifite-deauthentication-and-wardriving/)
 * [Bypassing Hardened Android Applications](https://notsosecure.com/bypassing-hardened-android-applications)
+* [Bypassing Root detection in android flutter apps](https://shobi.dev/blog/2023-28-10-bypassing-root-detection-in-flutter-with-frida)
+* [Flutter Reverse Engineering and Security Analysis](https://medium.com/@ostorlab/flutter-reverse-engineering-and-security-analysis-41433f5671f3)
 
 
 ## Blog
+* [xss on android](https://securityboulevard.com/2023/10/execution-of-arbitrary-javascript-in-android-application/)
 * [Get persistent reverse shell from Android app](https://www.mobile-hacker.com/2023/09/27/get-persistent-reverse-shell-from-android-app-without-visible-permissions-to-make-device-unusable/)
 * [Unsupported Compression Methods Enable Android Malware to Bypass Detection](https://zimperium.com/blog/over-3000-android-malware-samples-using-multiple-techniques-to-bypass-detection)
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
@@ -43,6 +46,11 @@
 
 
 ## Malware analysis
+* [Take a note of SpyNote malware](https://www.f-secure.com/en/articles/take-a-note-of-spynote-malware)
+* [Malicious “RedAlert - Rocket Alerts”](https://blog.cloudflare.com/malicious-redalert-rocket-alerts-application-targets-israeli-phone-calls-sms-and-user-information/)
+* [Fake Skype App](https://slowmist.medium.com/fake-skype-app-phishing-analysis-35c1dc8bc515)
+* [Pegasus](https://8ksec.io/mobile-malware-analysis-part-3-pegasus/)
+* [unmasking the godfather](https://www.youtube.com/watch?v=jNQmc2REwFg&feature=youtu.be)
 * [LightSpy mAPT Mobile Payment System Attack](https://www.threatfabric.com/blogs/lightspy-mapt-mobile-payment-system-attack)
 * [Unmasking – EVLF DEV](https://www.cyfirma.com/research/unmasking-evlf-dev-the-creator-of-cypherrat-and-craxsrat/)
 * [Anubis analysis video](https://www.youtube.com/watch?v=Vs9Z3NDnVT8&ab_channel=LaurieWired)
