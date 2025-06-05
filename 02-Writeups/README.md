@@ -43,6 +43,7 @@
 
 
 ## Malware analysis
+* [LightSpy mAPT Mobile Payment System Attack](https://www.threatfabric.com/blogs/lightspy-mapt-mobile-payment-system-attack)
 * [Unmasking – EVLF DEV](https://www.cyfirma.com/research/unmasking-evlf-dev-the-creator-of-cypherrat-and-craxsrat/)
 * [Anubis analysis video](https://www.youtube.com/watch?v=Vs9Z3NDnVT8&ab_channel=LaurieWired)
 * [MoqHao Malware Analysis](https://www.xanhacks.xyz/p/moqhao-malware-analysis/)
