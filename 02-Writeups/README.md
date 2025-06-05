@@ -18,6 +18,7 @@
 * [Analyze the native ELF binary in Ghidra](https://www.youtube.com/watch?v=sK_jsQ5bJUk&ab_channel=LaurieWired)
 * [Content Providers and the potential weak spots they can have](https://blog.oversecured.com/Content-Providers-and-the-potential-weak-spots-they-can-have/)
 * [Wi-Fi hacking using wifite](https://www.mobile-hacker.com/2023/08/29/nethunter-hacker-viii-wi-fi-hacking-using-wifite-deauthentication-and-wardriving/)
+* [Bypassing Hardened Android Applications](https://notsosecure.com/bypassing-hardened-android-applications)
 
 
 ## Blog
