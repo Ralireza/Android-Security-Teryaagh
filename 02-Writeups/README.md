@@ -17,6 +17,7 @@
 * [3 ways for Dynamic Code Loading in Android](https://erev0s.com/blog/3-ways-for-dynamic-code-loading-in-android/)
 * [Analyze the native ELF binary in Ghidra](https://www.youtube.com/watch?v=sK_jsQ5bJUk&ab_channel=LaurieWired)
 * [Content Providers and the potential weak spots they can have](https://blog.oversecured.com/Content-Providers-and-the-potential-weak-spots-they-can-have/)
+* [Wi-Fi hacking using wifite](https://www.mobile-hacker.com/2023/08/29/nethunter-hacker-viii-wi-fi-hacking-using-wifite-deauthentication-and-wardriving/)
 
 
 ## Blog
