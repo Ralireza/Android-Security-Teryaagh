@@ -10,6 +10,7 @@
 * Flutter reverse : [[ 1 ]](https://blog.nviso.eu/2020/05/20/intercepting-flutter-traffic-on-android-x64/) - [[ 2 ]](https://blog.nviso.eu/2019/08/13/intercepting-traffic-from-android-flutter-applications/) - [[ 3 ]](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
 * [Using Frida on Android without root](https://koz.io/using-frida-on-android-without-root/)
 * [Frida Handbook](https://learnfrida.info/)
+* [series of challenges for learning Frida for Android](https://github.com/DERE-ad2001/Frida-Labs)
 * [MITRE Mobile Techniques](https://attack.mitre.org/versions/v7/techniques/mobile/)
 * [Android Security Risks](https://developer.android.com/topic/security/risks)
 * [Debug Native library in android](https://ctf-wiki.mahaloz.re/android/basic_reverse/dynamic/ida_native_debug/)
@@ -21,11 +22,17 @@
 * [Bypassing Hardened Android Applications](https://notsosecure.com/bypassing-hardened-android-applications)
 * [Bypassing Root detection in android flutter apps](https://shobi.dev/blog/2023-28-10-bypassing-root-detection-in-flutter-with-frida)
 * [Flutter Reverse Engineering and Security Analysis](https://medium.com/@ostorlab/flutter-reverse-engineering-and-security-analysis-41433f5671f3)
+* [Android Deep Links exploitation](https://z4ki.medium.com/android-deep-links-exploitation-4abade4d45b4)
+* [https://medium.com/@appsecwarrior/bypass-ssl-pinning-for-flutter-a2f9ae85762e](https://medium.com/@prasad508/bypass-ssl-pinning-for-flutter-a2f9ae85762e)
+* [How to debug Android/iOS native library using GDB](https://medium.com/@shubhamsonani/how-to-debug-android-ios-native-library-using-gdb-debugger-d02c0e0341eb)
 
 
 ## Blog
 * [xss on android](https://securityboulevard.com/2023/10/execution-of-arbitrary-javascript-in-android-application/)
+* [Owning a company from its mobile app](https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627)
 * [Get persistent reverse shell from Android app](https://www.mobile-hacker.com/2023/09/27/get-persistent-reverse-shell-from-android-app-without-visible-permissions-to-make-device-unusable/)
+* [Automated local DNS cache poisoning using Android while charging via computer](https://www.mobile-hacker.com/2024/02/20/automated-dns-poisoning-using-android-while-charging-via-computer/)
+* [Bad Zip and new Packer for Android](https://cryptax.medium.com/bad-zip-and-new-packer-for-android-bianlian-5bdad4b90aeb)
 * [Unsupported Compression Methods Enable Android Malware to Bypass Detection](https://zimperium.com/blog/over-3000-android-malware-samples-using-multiple-techniques-to-bypass-detection)
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 * [theft of arbitrary files](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
@@ -48,8 +55,11 @@
 ## Malware analysis
 * [Take a note of SpyNote malware](https://www.f-secure.com/en/articles/take-a-note-of-spynote-malware)
 * [Malicious “RedAlert - Rocket Alerts”](https://blog.cloudflare.com/malicious-redalert-rocket-alerts-application-targets-israeli-phone-calls-sms-and-user-information/)
+* [Analysis of Android HookBot malware](https://cebrf.knf.gov.pl/komunikaty/artykuly-csirt-knf/362-ostrzezenia/858-hookbot-a-new-mobile-malware)
+* [Reverse engineering of Android/Phoenix](https://cryptax.medium.com/reverse-engineering-of-android-phoenix-b59693c03bd3)
 * [Fake Skype App](https://slowmist.medium.com/fake-skype-app-phishing-analysis-35c1dc8bc515)
 * [Pegasus](https://8ksec.io/mobile-malware-analysis-part-3-pegasus/)
+* [Xenomorph](https://8ksec.io/mobile-malware-analysis-part-6-xenomorph/)
 * [unmasking the godfather](https://www.youtube.com/watch?v=jNQmc2REwFg&feature=youtu.be)
 * [LightSpy mAPT Mobile Payment System Attack](https://www.threatfabric.com/blogs/lightspy-mapt-mobile-payment-system-attack)
 * [Unmasking – EVLF DEV](https://www.cyfirma.com/research/unmasking-evlf-dev-the-creator-of-cypherrat-and-craxsrat/)
