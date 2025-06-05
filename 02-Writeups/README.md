@@ -22,6 +22,7 @@
 
 
 ## Blog
+* [Get persistent reverse shell from Android app](https://www.mobile-hacker.com/2023/09/27/get-persistent-reverse-shell-from-android-app-without-visible-permissions-to-make-device-unusable/)
 * [Unsupported Compression Methods Enable Android Malware to Bypass Detection](https://zimperium.com/blog/over-3000-android-malware-samples-using-multiple-techniques-to-bypass-detection)
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 * [theft of arbitrary files](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
