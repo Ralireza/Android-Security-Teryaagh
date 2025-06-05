@@ -19,6 +19,7 @@
 
 
 ## Blog
+* [Unsupported Compression Methods Enable Android Malware to Bypass Detection] (https://zimperium.com/blog/over-3000-android-malware-samples-using-multiple-techniques-to-bypass-detection)
 * [Common mistakes when using permissions in Android](https://blog.oversecured.com/Common-mistakes-when-using-permissions-in-Android/)
 * [theft of arbitrary files](https://blog.oversecured.com/Android-security-checklist-theft-of-arbitrary-files/)
 * Hacking Samsung's Android Apps : [[ 1 ]](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/) - [[ 2 ]](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
