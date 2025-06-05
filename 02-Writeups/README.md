@@ -16,6 +16,7 @@
 * [ARM assembly basics](https://azeria-labs.com/writing-arm-assembly-part-1/)
 * [3 ways for Dynamic Code Loading in Android](https://erev0s.com/blog/3-ways-for-dynamic-code-loading-in-android/)
 * [Analyze the native ELF binary in Ghidra](https://www.youtube.com/watch?v=sK_jsQ5bJUk&ab_channel=LaurieWired)
+* [Content Providers and the potential weak spots they can have](https://blog.oversecured.com/Content-Providers-and-the-potential-weak-spots-they-can-have/)
 
 
 ## Blog
