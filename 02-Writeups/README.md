@@ -32,6 +32,7 @@
 
 ## Blog
 * [xss on android](https://securityboulevard.com/2023/10/execution-of-arbitrary-javascript-in-android-application/)
+* [Seeker: How a Simple Link Can Reveal Your Smartphone’s Location](https://www.mobile-hacker.com/2025/06/10/seeker-how-a-simple-link-can-reveal-your-smartphones-location/#google_vignette)
 * [Owning a company from its mobile app](https://ahmdhalabi.medium.com/the-art-of-chaining-vulnerabilities-e65382b7c627)
 * [Get persistent reverse shell from Android app](https://www.mobile-hacker.com/2023/09/27/get-persistent-reverse-shell-from-android-app-without-visible-permissions-to-make-device-unusable/)
 * [Hacking Android Games](https://8ksec.io/hacking-android-games/)
