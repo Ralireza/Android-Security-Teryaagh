@@ -1,9 +1,9 @@
 ---
 name: Feature / Resource request
 about: Suggest a new tool, article, or resource to be added
-title: '[RESOURCE] '
+title: "[RESOURCE] "
 labels: enhancement
-assignees: ''
+assignees: ""
 ---
 
 **Is your feature/resource request related to a problem? Please describe.**
