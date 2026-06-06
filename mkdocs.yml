@@ -1,0 +1,36 @@
+site_name: Android Security Teryaagh
+site_description: Android security guides, roadmap, tools, docs, courses, write-ups and teryaagh.
+repo_url: https://github.com/Ralireza/Android-Security-Teryaagh
+repo_name: Ralireza/Android-Security-Teryaagh
+edit_uri: edit/main/
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: indigo
+    accent: deep purple
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+docs_dir: .
+site_dir: site
+
+nav:
+  - Home: README.md
+  - Roadmap: 00-Roadmap/README.md
+  - Labs: 01-Labs/README.md
+  - Writeups: 02-Writeups/README.md
+  - Books: 03-Books/README.md
+  - Courses: 04-Courses/README.md
+  - Tools: 05-Tools/README.md
+  - Cheatsheet & Checklist: 06-Cheatsheet & Checklist/README.md
+  - Talks: 07-Talks/README.md
+  - Misc: 08-Misc/README.md
+  - Community:
+      - Contributing: CONTRIBUTING.md
+      - Code of Conduct: CODE_OF_CONDUCT.md
